@@ -4,7 +4,7 @@ from io import BytesIO, TextIOWrapper
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import tabula
 
-TOKEN = '6419789838:AAGO9_7E0EE-ULq9ZsfBxQwI0StnvcieHUU'
+TOKEN = ''
 
 def flatten_list(lst):
     result = []
